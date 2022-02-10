@@ -1,1 +1,1 @@
-An asian. A Malaysian. A Programmer. A AI Engineer wannabe.
+Testing out the turtle and pygame module in python.
